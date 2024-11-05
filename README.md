@@ -10,10 +10,10 @@ I am enthusiastic about creating innovative solutions and continuously improving
 ## 🛠 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, Java
-- **Frontend**: Angular, NextJs with React
-- **Backend**: NestJS, Node.js
+- **Frontend**: Angular(8-17), NextJs with React
+- **Backend**: NestJS, Express, Node.js
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Other Tools**: AWS Services,Terraform,Docker, PM2, Electron,
+- **Other Tools**: AWS Services,Terraform,Docker,Git, Github Action, PM2, Electron,
 
 ## 📈 GitHub Stats
 
