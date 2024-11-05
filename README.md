@@ -17,6 +17,8 @@ I am enthusiastic about creating innovative solutions and continuously improving
 
 ## 📈 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chathuwadev94&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chathuwadev94&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=chathuwadev94&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
